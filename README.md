@@ -1,6 +1,8 @@
 # 🛠️ SAS&ME Field Services App
 
-<img src="https://github.com/GMJSilmaro/SAS-Mobility-App/blob/main/assets/images/SAS-LOGO.png?raw=true" width="300" alt="SAS&ME Logo">
+<div style="background-color: white; padding: 20px; border-radius: 8px; display: inline-block; margin: 20px 0;">
+  <img src="https://github.com/GMJSilmaro/SAS-Mobility-App/blob/main/assets/images/SAS-LOGO.png?raw=true" width="300" alt="SAS&ME Logo">
+</div>
 
 A comprehensive mobile application designed for SAS&ME Air Conditioning technicians to manage field services and maintenance operations.
 
@@ -81,7 +83,7 @@ For technical support and assistance:
 
 ## ⚡ Powered By
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+<div style="background-color: white; padding: 20px; border-radius: 8px; display: flex; align-items: center; gap: 20px; margin: 20px 0;">
   <a href="https://pixelcareconsulting.com">
     <img src="https://www.pixelcareconsulting.com/wp-content/uploads/2022/03/pixelcare-logo-b.png" alt="Pixelcare Consulting Logo" height="60">
   </a>
@@ -94,11 +96,6 @@ For technical support and assistance:
 - [Pixelcare Consulting](https://pixelcareconsulting.com) - Digital Solutions Provider
 - [Pixel Pinnacle Technology](https://www.pixelpinnacletechnology.com) - Technology Innovation Partner
 - SAS&ME Air Conditioning - Industry Expert
-
-### Core Values
-- 🌱 Eco-friendly Solutions
-- 👥 People-centric Approach  
-- 🌡️ Air Conditioning Excellence
 
 ## 🔄 Updates & Maintenance
 
