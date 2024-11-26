@@ -83,7 +83,7 @@ For technical support and assistance:
 
 ## ⚡ Powered By
 
-<div style="background-color: white; padding: 20px; border-radius: 8px; display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+<div style="padding: 20px; display: flex; align-items: center; gap: 20px; margin: 20px 0;">
   <a href="https://pixelcareconsulting.com">
     <img src="https://www.pixelcareconsulting.com/wp-content/uploads/2022/03/pixelcare-logo-b.png" alt="Pixelcare Consulting Logo" height="60">
   </a>
@@ -95,7 +95,7 @@ For technical support and assistance:
 ### Technology Partners
 - [Pixelcare Consulting](https://pixelcareconsulting.com) - Digital Solutions Provider
 - [Pixel Pinnacle Technology](https://www.pixelpinnacletechnology.com) - Technology Innovation Partner
-- SAS&ME Air Conditioning - Industry Expert
+- SAS&ME Air Conditioning
 
 ## 🔄 Updates & Maintenance
 
