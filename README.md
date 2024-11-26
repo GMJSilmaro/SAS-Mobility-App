@@ -1,6 +1,6 @@
 # 🛠️ SAS&ME Field Services App
 
-![SAS&ME Logo](logo-url-here)
+![SAS&ME Logo](https://www.sasme.com/wp-content/uploads/2024/09/SASME-Logo-2024-1.png)
 
 A comprehensive mobile application designed for SAS&ME Air Conditioning technicians to manage field services and maintenance operations.
 
