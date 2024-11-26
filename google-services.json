@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1075549750844",
+    "project_id": "potensi-db",
+    "storage_bucket": "potensi-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075549750844:android:8e38f5b3382d95c38f6539",
+        "android_client_info": {
+          "package_name": "com.sas.fieldservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRIl_QwardcyHG5quND_vvR7P_6oZtOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075549750844:android:6badc6ebf4adef5b8f6539",
+        "android_client_info": {
+          "package_name": "com.sasfsm.sasfsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRIl_QwardcyHG5quND_vvR7P_6oZtOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075549750844:android:567fe46a1a3930e78f6539",
+        "android_client_info": {
+          "package_name": "com.sastest.sastest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRIl_QwardcyHG5quND_vvR7P_6oZtOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

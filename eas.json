@@ -1,0 +1,52 @@
+{
+  "cli": {
+    "version": ">= 13.3.0",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "channel": "development",
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_FIREBASE_API_KEY": "AIzaSyBGRIl_QwardcyHG5quND_vvR7P_6oZtOQ",
+        "EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN": "potensi-db.firebaseapp.com",
+        "EXPO_PUBLIC_FIREBASE_PROJECT_ID": "potensi-db",
+        "EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET": "potensi-db.appspot.com",
+        "EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "1075549750844",
+        "EXPO_PUBLIC_FIREBASE_APP_ID": "1:1075549750844:web:286062f6d24af6608f6539",
+        "EXPO_PUBLIC_FIREBASE_MEASUREMENT_ID": "G-YGKW881Q7K"
+      }
+    },
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      },
+      "channel": "preview",
+      "extends": "production"
+    },
+    "production": {
+      "autoIncrement": true,
+      "channel": "production",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_FIREBASE_API_KEY": "AIzaSyBGRIl_QwardcyHG5quND_vvR7P_6oZtOQ",
+        "EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN": "potensi-db.firebaseapp.com",
+        "EXPO_PUBLIC_FIREBASE_PROJECT_ID": "potensi-db",
+        "EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET": "potensi-db.appspot.com",
+        "EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "1075549750844",
+        "EXPO_PUBLIC_FIREBASE_APP_ID": "1:1075549750844:web:286062f6d24af6608f6539",
+        "EXPO_PUBLIC_FIREBASE_MEASUREMENT_ID": "G-YGKW881Q7K"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
