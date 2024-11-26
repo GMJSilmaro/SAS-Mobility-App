@@ -70,14 +70,35 @@ Supporting our eco-friendly mission through:
 ## 👥 User Support
 
 For technical support and assistance:
-- 📞 Helpdesk: [Your Support Number]
-- 📧 Email: support@sasme.com
-- 💬 In-app chat support
+- 📞 Helpdesk: +65 6969 4321 (Singapore), +60 3-2141 6969 (Malaysia), +63 2 8231 6969 (Philippines)
+- 📧 Email: ask@pixelcareconsulting.com
+- 💬 In-app chat support (24/7) *(Coming Soon)* 🔜
 - 📚 Digital training materials
+- 📍 Visit our offices:
+  - Singapore: 1 Scotts Road, #24-10 Shaw Centre, Singapore 228208
+  - Malaysia: Suite 33-01, Level 33, Menara Keck Seng, 203 Jalan Bukit Bintang, 55100 Kuala Lumpur
+  - Philippines: Unit 32A, 32nd Floor, Philamlife Tower, 8767 Paseo de Roxas, Makati City 1226
 
 ## ⚡ Powered By
-- SAS&ME Air Conditioning
-- eco / people / airconditioning
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <a href="https://pixelcareconsulting.com">
+    <img src="https://www.pixelcareconsulting.com/wp-content/uploads/2022/03/pixelcare-logo-b.png" alt="Pixelcare Consulting Logo" height="60">
+  </a>
+  <a href="https://www.pixelpinnacletechnology.com">
+    <img src="https://www.pixelcareconsulting.com/wp-content/uploads/2024/11/PPT_fullcolour_OL-03-removebg-preview-e1731491291497-351x245.png" alt="Pixel Pinnacle Technology Logo" height="60">
+  </a>
+</div>
+
+### Technology Partners
+- [Pixelcare Consulting](https://pixelcareconsulting.com) - Digital Solutions Provider
+- [Pixel Pinnacle Technology](https://www.pixelpinnacletechnology.com) - Technology Innovation Partner
+- SAS&ME Air Conditioning - Industry Expert
+
+### Core Values
+- 🌱 Eco-friendly Solutions
+- 👥 People-centric Approach  
+- 🌡️ Air Conditioning Excellence
 
 ## 🔄 Updates & Maintenance
 
